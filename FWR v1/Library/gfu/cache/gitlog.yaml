@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-01-29T21:53:56.372-04:00
+  initializedAtString: 2021-01-29T21:53:56.372-04:00
+  log:
+  - commitID: 1e525ab6fcf1e695fb38f236342e573f5ff29b24
+    mergeA: 
+    mergeB: 
+    authorName: Ryuuji14
+    authorEmail: 54300981+Ryuuji14@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-01-29T17:02:38.000-04:00
+    commitTimeString: 2021-01-29T17:02:38.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\dev\gj\FWR v1\ggj2021-unity\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\dev\gj\FWR v1\ggj2021-unity\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
